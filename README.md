@@ -3,7 +3,7 @@
 
 ## Summary
 
-The goal of this repo is to demonstrate how [Cloud Native Buildpacks] work.  This was demo'ed at talk that I gave at the CNCF Birmingham Meetup on 5th Feb 2020.
+The goal of this repo is to demonstrate how [Cloud Native Buildpacks] work.  This was demo'ed at talk on [Intro to Cloud Native Buildpacks] that I gave at the CNCF Birmingham Meetup on 5th Feb 2020.
 
 ## Prerequisites
 
@@ -53,5 +53,6 @@ TODO: Implement this demo.
 These demos were built using [demo-magic], a very useful tool to help with fat-finger syndrome when doing live demos.
 
 [Cloud Native Buildpacks]: http://buildpacks.io
+[Intro to Cloud Native Buildpacks]: ./intro_to_cloud_native_buildpacks.pdf
 [pack]: https://buildpacks.io/docs/install-pack/
 [demo-magic]: https://github.com/paxtonhare/demo-magic
