@@ -33,7 +33,7 @@ This demo shows how the above nodejs app can be rebuilt without having to build 
 This demo shows how the above nodejs app can be rebased to change the underlying base image using the same application that was previously rebuilt.
 
 ```bash
-./demos/rebuild-nodejs.sh
+./demos/rebase-nodejs.sh
 ```
 
 ### 4th demo - what is a builder
